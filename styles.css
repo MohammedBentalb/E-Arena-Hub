@@ -661,3 +661,47 @@ address {
     text-align: left;
   }
 }
+
+
+
+/* added style */
+
+.sponsors{
+  width: 100%;
+  display: flex;
+  gap: 2rem;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 100%);
+  padding-block: 48px;
+}
+.sponsors-list{
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 800px;
+
+}
+
+.sponsors h1{
+  font: 2rem;
+  color:#00f0ff;
+  text-shadow: 0 0 15px rgba(0, 240, 255, 0.3);
+
+}
+
+.sponsors-list p{
+  font-size: 1.5rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all linear 300ms;
+}
+
+.sponsors-list p:hover{
+  color: #00f0ff;
+  text-shadow: 0 0 15px rgba(0, 240, 255, 0.3);
+  transform: scale(1.2);
+}
