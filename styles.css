@@ -878,7 +878,7 @@ address {
 }
 
 
-.CTA a{
+.btn{
   text-decoration: none;
   color: white;
   display: flex;
@@ -895,7 +895,7 @@ address {
   transition: all linear .3s;
 }
 
-.CTA a:hover{
+.btn:hover{
   border: 2px solid #ff006e;
   background-color: transparent;
   color: #ff006e;
@@ -903,7 +903,7 @@ address {
   box-shadow: 1px 1px 10px #ff006e;
 }
 
-.CTA a:focus{
+.btn:focus{
   outline: 2px solid #ff006e;
   outline-offset: 2px;
 }
@@ -1009,4 +1009,5 @@ address {
   font-weight: 500;
   display: flex;
   justify-content: space-between;
+  
 }
