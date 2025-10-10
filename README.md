@@ -92,7 +92,7 @@ L’application web est **statique** et comporte **trois pages principales** rel
 ## 📊 Audits
 
 ### Lighthouse Performance Audit
-![Lighthouse Audit](assets/img/lighthouse.png)
+[Lighthouse Audit](./assets/lighthouse.png)
 *Résultats de performance, accessibilité et meilleures pratiques selon Lighthouse.*
 
 ## 🎯 Objectifs d'apprentissage
