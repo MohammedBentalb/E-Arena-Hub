@@ -95,6 +95,12 @@ L’application web est **statique** et comporte **trois pages principales** rel
 [Lighthouse Audit](./assets/lighthouse.png)
 *Résultats de performance, accessibilité et meilleures pratiques selon Lighthouse.*
 
+## 🌐 Hébergement du projet
+
+Le projet **E-Arena Hub** est hébergé via **GitHub Pages**, ce qui permet un déploiement simple et rapide directement depuis le dépôt GitHub.
+
+🔗 **Lien du site en ligne :** [E-Arena Hub sur GitHub Pages](https://mohammedbentalb.github.io/E-Arena-Hub/)
+
 ## 🎯 Objectifs d'apprentissage
 
 Le projet **E-Arena Hub** a été réalisé dans le but de renforcer mes compétences sur :
