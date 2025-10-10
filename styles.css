@@ -673,7 +673,7 @@ address {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 100%);
+  background: linear-gradient(-135deg,  #1a1a2e 0%, #0a0a0f 100%);
   padding-block: 48px;
 }
 
@@ -740,6 +740,7 @@ address {
   border: 2px solid #ff006e;
   padding: 1.5rem;
   margin: 1.5rem;
+  margin-bottom: 4rem;
   border-radius: 0.75rem;
   display: flex;
   flex-direction: column;
@@ -836,7 +837,7 @@ address {
 }
 
 .bg{
-    background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 100%);
+    background: linear-gradient(-135deg,  #1a1a2e 0%, #0a0a0f 100%);
     padding-inline: 24px;
     display: flex;
     flex-direction: column;
