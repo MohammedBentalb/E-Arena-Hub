@@ -89,15 +89,11 @@ L’application web est **statique** et comporte **trois pages principales** rel
 └── README.md
 ```
 
-## 📊 Audits et Validation
+## 📊 Audits
 
 ### Lighthouse Performance Audit
 ![Lighthouse Audit](assets/img/lighthouse.png)
 *Résultats de performance, accessibilité et meilleures pratiques selon Lighthouse.*
-
-### Validation W3C
-![W3C Validator](assets/img/w3c-validator.png)
-*Validation HTML/CSS avec le W3C Validator pour assurer la conformité aux standards web.*
 
 ## 🎯 Objectifs d'apprentissage
 
