@@ -89,22 +89,28 @@ L’application web est **statique** et comporte **trois pages principales** rel
 └── README.md
 ```
 
+## 📊 Audits et Validation
 
+### Lighthouse Performance Audit
+![Lighthouse Audit](assets/img/lighthouse.png)
+*Résultats de performance, accessibilité et meilleures pratiques selon Lighthouse.*
 
+### Validation W3C
+![W3C Validator](assets/img/w3c-validator.png)
+*Validation HTML/CSS avec le W3C Validator pour assurer la conformité aux standards web.*
 
-## 🚀 Objectifs du projet
+## 🎯 Objectifs d'apprentissage
 
-- Promouvoir le tournoi **E-Arena Championship 2025**
-- Présenter les équipes et leurs palmarès
-- Mettre en avant les **règles**, **stratégies gagnantes**, et le **Hall of Fame**
-- Créer un espace clair pour **les sponsors**, **les joueurs**, et **le grand public**
-- Fournir une **expérience fluide, responsive et accessible**
+Le projet **E-Arena Hub** a été réalisé dans le but de renforcer mes compétences sur :
 
+- **HTML Tags** : l’utilisation correcte des balises HTML5.
+- **SEO (Search Engine Optimization)** : optimiser le contenu, les balises meta et la structure pour améliorer la visibilité sur les moteurs de recherche.
+- **Lighthouse** : auditer la performance, l’accessibilité et les bonnes pratiques pour créer des pages web de qualité.
+- **W3C Validator** : valider le code HTML/CSS pour assurer la conformité aux standards web et détecter les erreurs potentielles.
 
 ## 🧠 Ressources utilisées
 
 Voici les ressources, outils et références utilisés pour la création du projet **E-Arena Hub** :
-
 
 ### 📚 Documentation & Références Web
 - [MDN Web Docs – HTML5](https://developer.mozilla.org/fr/docs/Web/HTML)
