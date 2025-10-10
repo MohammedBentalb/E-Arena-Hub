@@ -3,18 +3,6 @@
 **E-Arena Hub** est une plateforme web vitrine dédiée à l’univers de l’e-sport compétitif.
 Elle présente le grand tournoi annuel E-Arena Championship 2025, met en valeur les équipes participantes, et facilite la prise de contact avec les organisateurs, sponsors et futurs joueurs.
 
-
-
-## 🚀 Objectifs du projet
-
-- Promouvoir le tournoi **E-Arena Championship 2025**
-- Présenter les équipes et leurs palmarès
-- Mettre en avant les **règles**, **stratégies gagnantes**, et le **Hall of Fame**
-- Créer un espace clair pour **les sponsors**, **les joueurs**, et **le grand public**
-- Fournir une **expérience fluide, responsive et accessible**
-
-
-
 ## 🧩 Structure du site
 
 L’application web est **statique** et comporte **trois pages principales** reliées par une navigation cohérente.
@@ -74,7 +62,7 @@ L’application web est **statique** et comporte **trois pages principales** rel
 - **Validation W3C :** conformité HTML/CSS
 - **Organisation du projet :**
 
----
+
 
 ## 🧱 Structure de project
 
@@ -101,35 +89,44 @@ L’application web est **statique** et comporte **trois pages principales** rel
 └── README.md
 ```
 
+
+
+
+## 🚀 Objectifs du projet
+
+- Promouvoir le tournoi **E-Arena Championship 2025**
+- Présenter les équipes et leurs palmarès
+- Mettre en avant les **règles**, **stratégies gagnantes**, et le **Hall of Fame**
+- Créer un espace clair pour **les sponsors**, **les joueurs**, et **le grand public**
+- Fournir une **expérience fluide, responsive et accessible**
+
+
 ## 🧠 Ressources utilisées
 
 Voici les ressources, outils et références utilisés pour la création du projet **E-Arena Hub** :
 
----
 
 ### 📚 Documentation & Références Web
 - [MDN Web Docs – HTML5](https://developer.mozilla.org/fr/docs/Web/HTML)
 - [MDN Web Docs – CSS3](https://developer.mozilla.org/fr/docs/Web/CSS/box-sizing)
 - [W3C Validator](https://validator.w3.org/) – pour la validation HTML
 - [CSS Validator](https://jigsaw.w3.org/css-validator/) – pour la validation CSS
+  - [Flex](https://youtu.be/u044iM9xsWU?si=Y-WFXTFVo-0rGfKo) - pour à gérer la disposition des éléments et layouts
+  - [Grid](https://youtu.be/_lEkD8IGkwo?si=p2XHKCli5RGSWigY) - pour à gérer la disposition des éléments et layouts
 
----
 
 ### 🎨 Design & Inspiration
-- [Figma](https://www.figma.com/) – création du wireframe (maquette low-fidelity)
-- [Coolors](https://coolors.co/) – génération de palette de couleurs e-sport
-- [Google Fonts](https://fonts.google.com/) – typographies web
-- [Unsplash](https://unsplash.com/) / [Pexels](https://www.pexels.com/) – images libres d’utilisation
+- [Dribble](https://fonts.google.com/) – designinspiration de conception de sections
+- [Favicon](https://www.flaticon.com/) - icon libres d’utilisation
+- [Pngwing](https://www.pngwing.com/) - images libres d’utilisation
 
----
 
 ### 🧰 Outils de développement
 - **VS Code** – éditeur principal
 - **Git / GitHub** – versionnage et hébergement
 - **Lighthouse** – audit de performance et accessibilité
-- **WAVE / Axe DevTools** – test d’accessibilité
+- **W3C validator** – test d'utilisation d’accessibilité et css
 
----
 
 ## 👨‍🏫 Encadrement
 
