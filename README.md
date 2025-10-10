@@ -119,7 +119,7 @@ Voici les ressources, outils et références utilisés pour la création du proj
 
 ### 🎨 Design & Inspiration
 - [Dribble](https://fonts.google.com/) – designinspiration de conception de sections
-- [Favicon](https://www.flaticon.com/) - icon libres d’utilisation
+- [flaticon](https://www.flaticon.com/) - icon libres d’utilisation
 - [Pngwing](https://www.pngwing.com/) - images libres d’utilisation
 
 
