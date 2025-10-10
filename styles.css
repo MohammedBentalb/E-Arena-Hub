@@ -729,6 +729,11 @@ address {
   font-weight: bold;
 }
 
+.year{
+  color: white;
+  font-size: .7rem;
+}
+
 .rank-list{
   display: flex;
   flex-direction: column;
@@ -779,7 +784,7 @@ address {
 
 .rank-details{
   display: flex;
-  gap: 1.2rem;
+  gap: 1.5rem;
   width: 100%;
   align-items: center;
 }
@@ -790,12 +795,22 @@ address {
   font-weight: bold;
 }
 
+.rank-details p:nth-child(2){
+  margin-left: -10px;
+  font-weight: bold;
+}
 .rank-details p:nth-child(3){
   margin-left: -10px;
   font-weight: bold;
 }
 .rank-details p:last-child{
   margin-left: auto;
+}
+
+.rank-col, .points-col, .logo-col, .team-col{
+  color: #00f0ff !important;
+  font-weight: 500!important;
+  font-size: 1rem !important;
 }
 
 .round-logo{
