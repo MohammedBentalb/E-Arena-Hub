@@ -726,7 +726,7 @@ address {
 .hall h1{
   color: #00f0ff;
   text-shadow: 0 0 15px rgba(0, 240, 255, 0.3);
-  font-weight: 2rem;
+  font-weight: bold;
 }
 
 .rank-list{
